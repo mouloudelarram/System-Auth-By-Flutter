@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774347673442",
+    "project_id": "essaouira-ad507",
+    "storage_bucket": "essaouira-ad507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774347673442:android:d1d6b4a76d6518f507263b",
+        "android_client_info": {
+          "package_name": "essaouira.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774347673442-k797r4he278l25ttpmvspucv7nng92qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpcsEabtzbm-8HpturUysQqqSoamPA_k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774347673442-k797r4he278l25ttpmvspucv7nng92qn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
